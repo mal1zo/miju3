@@ -1,0 +1,31 @@
+header{
+  height: 50px; 
+  width: 100%; 
+background:linear-gradient(90deg,#77ccbb 0%,#77ccbb 16px,white 16px,white 100%);
+  position: fixed; 
+  top: 0;  
+  left: 0; 
+  right: 0;  
+}
+mtitle{
+  font-family: "游ゴシック体",sans-serif;
+  font-size: 2em; 
+  margin : 30px ;
+}
+
+shadow{
+  height: 4px; 
+  width: 100%; 
+background-color:#cccccc;
+  position: fixed; 
+  top: 50;  
+  left: 0; 
+  right: 0;  
+}
+
+div{
+  height: 700px; 
+  width: 100%; 
+  padding: 60px 0;
+  text-align:center;
+    }
